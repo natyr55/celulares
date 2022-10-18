@@ -6,3 +6,4 @@
 ** PROGRAMADOR: NATALIA RINCON
 ** FECHA: 19/09/2022
 ***********************************************************
+Esta aplicacion permite realizar busqueda de celulares por marca,color,modelo y precio
